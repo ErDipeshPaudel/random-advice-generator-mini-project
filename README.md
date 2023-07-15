@@ -1,2 +1,1 @@
-# random-advice-generator-mini-project
-Created with CodeSandbox
+# random-advice-generator-mini-project with react
